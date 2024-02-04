@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-image: url(images/background.png);
+    height: 50;
+    width: 1000;
+}
+
+h1{
+    text-align: center; 
+    color: black;
+    font-family: verdana;
+    font-size: 400%;
+}
+
+h2{
+    color: black;
+    font-family: verdana;
+    font-size: 150%;
+}
+
+
+.row {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+  }
+
+.row figure img {
+    width:400;
+    height:350;
+    border:10 
+    class center;
+}
+
+
+.row figure h2 {
+    font-size: 100%;
+    font:  sans-serif;
+    padding: 3px;
+    text-align: center;
+ }
+
+.row figure h3 {
+    font-size: 75%;
+   font: sans-serif;
+   padding: 3px;
+   text-align: center;
+}
+
+.image-row{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+

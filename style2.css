@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    background-image: url(images/darthvader.png);
+    height: 50;
+    width: 1000;
+}
+
+h1{
+    text-align: center; 
+    color: white;
+    font-family: verdana;
+    font-size: 300%;
+}
+
+
+h2{
+    text-align: center; 
+    color: black;
+    font-family: verdana;
+    font-size: 200%;
+}
+
+h3{
+    text-align: center; 
+    color: black;
+    font-family: verdana;
+    font-size: 200%;
+
+}
+
+
+
+
+
